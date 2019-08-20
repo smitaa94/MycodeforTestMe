@@ -1,0 +1,23 @@
+<suite name="TestSuite" verbose="1" parallel="tests">
+  <test name="Functional" >
+    <classes>
+       <class name="testngdemo.DemoTestcase" />
+       <class name="testngdemo.DemoTestNg" />
+       
+    </classes>
+  </test>
+  
+  
+   <test name="Functional1" >
+    <classes>
+       <class name="testngdemo.DemoTestcase" />
+       <class name="testngdemo.DemoTestNg" />
+       
+    </classes>
+  </test>
+  
+  
+  
+ 
+  
+</suite>
